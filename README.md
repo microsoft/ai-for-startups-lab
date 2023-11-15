@@ -3,7 +3,11 @@
 Embark on an AI journey tailored for startups. We'll guide you through the maze of integrating text, visuals, and sound, using cutting-edge tools and techniques. Our objective? To help you mold your innovative ideas into a product that's ready to impress and showcase.
 
 
+## Additional Resources:
 
+- [How can LLMs improve Vision AI? OCR, Image & Video Analysis](https://www.youtube.com/watch?v=4shB_qdU3Gs)
+- [What are Azure AI services?](https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services)
+ - [Explore Azure AI services for Vision - Learning Module](https://learn.microsoft.com/en-us/training/modules/explore-cognitive-services-vision)
 
 
 
