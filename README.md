@@ -5,10 +5,28 @@ Embark on an AI journey tailored for startups. We'll guide you through the maze 
 
 ## Additional Resources:
 
+### General
 - [Bing Chat ](https://www.bing.com/chat)
-- [How can LLMs improve Vision AI? OCR, Image & Video Analysis](https://www.youtube.com/watch?v=4shB_qdU3Gs)
-- [What are Azure AI services?](https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services)
+- [Founders Hub - Tips and tricks](https://www.youtube.com/playlist?list=PLlzNGEvTIKySffPoTQgptlnqyF0Uq8V0v)
+- [Build with AI - Transform your startup with AI](https://microsoft.com/startups/ai)
+- [Microsoft for Startups Youtube](https://www.youtube.com/@MicrosoftforStartups)
+ 
+
+### Learn
+- [Microsoft Learn - Power your startup with Microsoft](https://learn.microsoft.com/en-us/training/topics/startups)
  - [Explore Azure AI services for Vision - Learning Module](https://learn.microsoft.com/en-us/training/modules/explore-cognitive-services-vision)
+- [Generative AI for Beginners - A Course](https://github.com/microsoft/generative-ai-for-beginners)
+
+
+### Documentation
+- [Azure AI services documentation](https://docs.microsoft.com/en-us/azure/ai-services/)
+- [Azure OpenAI Service models](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models)
+- [Azure OpenAI on your data](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data)
+- [What are Azure AI services?](https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services)
+ 
+### Videos
+- [How can LLMs improve Vision AI? OCR, Image & Video Analysis](https://www.youtube.com/watch?v=4shB_qdU3Gs)
+- [ChatGPT & OpenAI powering your apps](https://youtu.be/3t3qZu1Dy1k?si=v1uYMp7i9jigFQVU)
 
 
 
