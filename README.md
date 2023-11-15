@@ -17,6 +17,7 @@ Embark on an AI journey tailored for startups. We'll guide you through the maze 
 
 ### Learn
 - [Microsoft Learn - Power your startup with Microsoft](https://learn.microsoft.com/en-us/training/topics/startups)
+- [Incorporate multimodality](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/hear-speak-playground)
 - [AI learning and community hub](https://learn.microsoft.com/en-us/ai/)
  - [Explore Azure AI services for Vision - Learning Module](https://learn.microsoft.com/en-us/training/modules/explore-cognitive-services-vision)
 - [Generative AI for Beginners - A Course](https://github.com/microsoft/generative-ai-for-beginners)
