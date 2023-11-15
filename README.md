@@ -5,6 +5,7 @@ Embark on an AI journey tailored for startups. We'll guide you through the maze 
 
 ## Additional Resources:
 
+- [Bing Chat ](https://www.bing.com/chat)
 - [How can LLMs improve Vision AI? OCR, Image & Video Analysis](https://www.youtube.com/watch?v=4shB_qdU3Gs)
 - [What are Azure AI services?](https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services)
  - [Explore Azure AI services for Vision - Learning Module](https://learn.microsoft.com/en-us/training/modules/explore-cognitive-services-vision)
