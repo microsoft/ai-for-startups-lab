@@ -7,13 +7,18 @@ Embark on an AI journey tailored for startups. We'll guide you through the maze 
 
 ### General
 - [Bing Chat ](https://www.bing.com/chat)
+- [Azure OpenAI Studio](https://oai.azure.com/)
+- [Microsoft Power Pages](https://powerpages.microsoft.com/en-us
+)
 - [Founders Hub - Tips and tricks](https://www.youtube.com/playlist?list=PLlzNGEvTIKySffPoTQgptlnqyF0Uq8V0v)
 - [Build with AI - Transform your startup with AI](https://microsoft.com/startups/ai)
-- [Microsoft for Startups Youtube](https://www.youtube.com/@MicrosoftforStartups)
+
  
 
 ### Learn
 - [Microsoft Learn - Power your startup with Microsoft](https://learn.microsoft.com/en-us/training/topics/startups)
+- [Incorporate multimodality](https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/hear-speak-playground)
+- [AI learning and community hub](https://learn.microsoft.com/en-us/ai/)
  - [Explore Azure AI services for Vision - Learning Module](https://learn.microsoft.com/en-us/training/modules/explore-cognitive-services-vision)
 - [Generative AI for Beginners - A Course](https://github.com/microsoft/generative-ai-for-beginners)
 
@@ -25,6 +30,7 @@ Embark on an AI journey tailored for startups. We'll guide you through the maze 
 - [What are Azure AI services?](https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services)
  
 ### Videos
+- [Microsoft for Startups Youtube](https://www.youtube.com/@MicrosoftforStartups)
 - [How can LLMs improve Vision AI? OCR, Image & Video Analysis](https://www.youtube.com/watch?v=4shB_qdU3Gs)
 - [ChatGPT & OpenAI powering your apps](https://youtu.be/3t3qZu1Dy1k?si=v1uYMp7i9jigFQVU)
 
