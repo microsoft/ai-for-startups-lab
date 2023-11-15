@@ -1,14 +1,16 @@
-# Project
+# Building an end-to-end AI solution for your startup
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Embark on an AI journey tailored for startups. We'll guide you through the maze of integrating text, visuals, and sound, using cutting-edge tools and techniques. Our objective? To help you mold your innovative ideas into a product that's ready to impress and showcase.
 
-As the maintainer of this project, please make a few updates:
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Additional Resources:
+
+- [Bing Chat ](https://www.bing.com/chat)
+- [How can LLMs improve Vision AI? OCR, Image & Video Analysis](https://www.youtube.com/watch?v=4shB_qdU3Gs)
+- [What are Azure AI services?](https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services)
+ - [Explore Azure AI services for Vision - Learning Module](https://learn.microsoft.com/en-us/training/modules/explore-cognitive-services-vision)
+
+
 
 ## Contributing
 
